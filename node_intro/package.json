@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jLeeder1/Internet-Applications/issues"
   },
-  "homepage": "https://github.com/jLeeder1/Internet-Applications#readme"
+  "homepage": "https://github.com/jLeeder1/Internet-Applications#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
 }
