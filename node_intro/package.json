@@ -1,0 +1,22 @@
+{
+  "name": "node_intro",
+  "version": "0.1.0",
+  "description": "First lab work",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jLeeder1/Internet-Applications.git"
+  },
+  "keywords": [
+    "Intro"
+  ],
+  "author": "Josh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jLeeder1/Internet-Applications/issues"
+  },
+  "homepage": "https://github.com/jLeeder1/Internet-Applications#readme"
+}
